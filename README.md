@@ -1,6 +1,8 @@
-## Hi there 👋
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ikwbb)](https://github.com/ikwbb/github-readme-stats)
+
 
 <!--
+## Hi there 👋
 **ikwbb/ikwbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
